@@ -8,3 +8,6 @@ Dataset 출처 : 스탯티즈 사이트(http://www.statiz.co.kr/main.php) - 22�
 1. Best 10 Player 및 구단별 주요 실적 분석
 2. 야구 선수는 어떤 계절에 강해질까?
 3. 득점과 홈런, 루타, 도루, 볼넷, 사구, 고4, 희타의 상관관계 - 표준 선형회귀, 릿지 선형회귀, 라쏘 선형 회귀 분석 기법 사용
+
+
+참고 : https://silvercoding.tistory.com/54, https://silvercoding.tistory.com/m/55
